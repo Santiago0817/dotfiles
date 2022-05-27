@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = scordoba0817@gmail.com
+	name = Santiago Meneses
